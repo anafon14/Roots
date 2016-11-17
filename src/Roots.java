@@ -1,7 +1,7 @@
 /**
  * Name: Ana Luiza Fonseca Teixeira
  * Teacher: Mr. Hardman 
- * Assignment #4, Program #1
+ * Assignment #4, Program #2
  * Date Last Modified: 11/18/2016
  */
 
